@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BarkMulcher
-- 👀 I’m interested in learning web development
-- 🌱 I’m currently learning HTML, CSS, JS, JQuery, react.js, mySQL, and many more in an intensive six-month boot camp!
-- 💞️ I’m looking to collaborate on team projects in my boot camp class.
+- 👋 Hi, I’m Luke Haskell
+- I love learning everything about software & web development and how they overlap.
+- 🌱 I’m currently learning JS, react.js, mySQL, Python & Django!
+- 💞️ I’m looking to collaborate on team projects in any setting.
 - 📫 How to reach me: message me on github
 
 <!---
